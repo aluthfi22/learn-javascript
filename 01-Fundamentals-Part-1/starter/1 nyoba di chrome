@@ -1,0 +1,12 @@
+alert("hai mahluk laut")
+undefined
+let js = 'amazing spider'
+undefined
+if (js === 'amazing spider') alert('javascript is fum')
+undefined
+js = 'membosankan'
+'membosankan'
+if (js === 'amazing spider') alert('javascript is fum')
+undefined
+1+1
+2
